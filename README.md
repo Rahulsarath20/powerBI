@@ -58,7 +58,7 @@ PowerBI-Attrition-Dashboard/
 
 ## 📷 Sample Dashboard
 
-![Dashboard Overview](./Screenshot/emp_dashboard.png)
+![Dashboard Overview](PowerBI-Attrition-Dashboard/Screenshot/emp_dashboard.png)
 
 ---
 
